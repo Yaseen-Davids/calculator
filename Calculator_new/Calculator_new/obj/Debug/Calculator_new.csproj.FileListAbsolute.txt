@@ -1,0 +1,9 @@
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\bin\Debug\Calculator_new.exe.config
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\bin\Debug\Calculator_new.exe
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\bin\Debug\Calculator_new.pdb
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.csprojResolveAssemblyReference.cache
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.Properties.Resources.resources
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.csproj.GenerateResource.Cache
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.exe
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.pdb
+c:\users\infin8\documents\visual studio 2012\Projects\Calculator_new\Calculator_new\obj\Debug\Calculator_new.Calculator.resources
